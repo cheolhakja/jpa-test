@@ -46,6 +46,7 @@ public class JpaPracticeApplication implements CommandLineRunner {
          */
 		//jpaRepository.modifyMemberName(2L, "modified");
 
+		jpaRepository.orderSthCh2();
 
 	}
 

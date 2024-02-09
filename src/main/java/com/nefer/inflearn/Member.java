@@ -13,4 +13,7 @@ public class Member {
     @Column(name = "member_id")
     private Long id;
     private String name;
+    private String city;
+    private String street;
+    private String zipcode;
 }
