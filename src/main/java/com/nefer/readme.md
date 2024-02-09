@@ -9,3 +9,5 @@
   * 참고) 양방향 mappedby = "member" -> 주인은 Order니까... Order의 Member member에 FK가 있으니까
   * 근데 양방향이 아니더라도 개발하는데 아무 문제가 없음
   * jpql 작성시 Order로부터 OrderItem을 끌고오는게 편할때가 잇어서 양방향 걸때가 잇음
+
+* test
