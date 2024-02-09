@@ -1,5 +1,6 @@
 package com.nefer.inflearn;
 
+import com.nefer.inflearn.ch2.*;
 import jakarta.persistence.EntityManager;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;

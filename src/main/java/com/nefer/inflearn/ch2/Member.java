@@ -1,4 +1,4 @@
-package com.nefer.inflearn;
+package com.nefer.inflearn.ch2;
 
 import jakarta.persistence.*;
 import lombok.Getter;
